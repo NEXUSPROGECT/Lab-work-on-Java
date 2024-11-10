@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <company>какая-то компания</company>
+        <contactPerson>контактное лицо</contactPerson>
+        <country>какая-то страна</country>
+        <name>Вермешель</name>
+        <phone>+3800000000</phone>
+        <size>4</size>
+        <weight>400г</weight>
+    </person>
+    <person>
+        <company>какая-то компания</company>
+        <contactPerson>контактное лицо</contactPerson>
+        <country>какая-то страна</country>
+        <name>Добрий Кола</name>
+        <phone>+3800000000</phone>
+        <size>9</size>
+        <weight>956г</weight>
+    </person>
+    <person>
+        <company>какая-то компания</company>
+        <contactPerson>контактное лицо</contactPerson>
+        <country>какая-то страна</country>
+        <name>Вафли Венские</name>
+        <phone>+3800000000</phone>
+        <size>2</size>
+        <weight>56г</weight>
+    </person>
+</persons>
